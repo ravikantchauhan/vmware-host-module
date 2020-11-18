@@ -17,7 +17,7 @@
 #Version check
 #clone
 git clone https://github.com/ravikantchauhan/vmware-host-module.git
-cd vmware-host-modules/
+#cd vmware-host-modules/
 #awk  '{print $1}'
 # VMVERSION = vmware -v | awk  '{print $3}'
 #echo vmware-$(vmware -v | awk  '{print $3}')
